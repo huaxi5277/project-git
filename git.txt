@@ -1,0 +1,2 @@
+git add . 工作区 -> 缓冲区
+git commit -m "" 缓冲区 -> 版本库
